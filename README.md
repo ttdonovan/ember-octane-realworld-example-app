@@ -1,7 +1,8 @@
-# realworld
+# Ember Octane RealWorld Example App
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+An example Ember Octane application of
+[RealWorld](https://github.com/gothinkster/realworld). For additional
+documentation and annotation see [`NOTES.md`](NOTES.md).
 
 ## Prerequisites
 
