@@ -1,5 +1,7 @@
-{{!-- The following component displays Ember's default welcome message. --}}
-<WelcomePage />
-{{!-- Feel free to remove this! --}}
+<ul>
+  <li>{{#link-to 'home'}}Home{{/link-to}}</li>
+  <li>{{#link-to 'login'}}Login{{/link-to}}</li>
+  <li>{{#link-to 'register'}}Register{{/link-to}}</li>
+</ul>
 
 {{outlet}}

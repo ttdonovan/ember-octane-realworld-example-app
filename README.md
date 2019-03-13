@@ -1,5 +1,7 @@
 # Ember Octane RealWorld Example App
 
+> **Notice**: work in progress
+
 An example Ember Octane application of
 [RealWorld](https://github.com/gothinkster/realworld). For additional
 documentation and annotation see [`NOTES.md`](NOTES.md).
